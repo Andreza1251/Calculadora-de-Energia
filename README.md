@@ -8,5 +8,6 @@ Insira o nome do aparelho (ex.: “Geladeira”), a potência do aparelho em wat
 ## Fórmula Utilizada
 consumoMensal = (potencia * horasDia * 30) / 1000
 ## Tecnologias Utilizadas
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
